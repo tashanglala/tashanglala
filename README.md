@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1F3A,100:0066FF&height=220&section=header&text=NATASHA%20NICOLE%20REMOTO&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20ANALYST%20%7C%20SECURE%20APPLICATION%20DEVELOPER&descAlignY=58&descSize=14&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1F3A,100:0066FF&height=220&section=header&text=Hi!%20I'mE%20Tashang&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20ANALYST%20%7C%20SECURE%20APPLICATION%20DEVELOPER&descAlignY=58&descSize=14&animation=fadeIn" width="100%"/>
 
 <br>
 
@@ -29,7 +29,7 @@
 ┌──────────────────────────────────────────────────────────────┐
 │                    SECURITY TERMINAL                         │
 ├──────────────────────────────────────────────────────────────┤
-│  USER        : Natasha Nicole Remoto                         │
+│  USER        : Tashang                                       │
 │  ROLE        : Cybersecurity Analyst                         │
 │  SPECIALTY   : Secure Application Development               │
 │  ENVIRONMENT : Python / Flask / Linux / Web                  │
@@ -44,7 +44,7 @@
 
 ## `01 // ABOUT ME`
 
-Hi, I'm **Natasha Nicole Remoto**, a 4th-year Information Technology student focused on **cybersecurity and secure application development**.
+Hi, I'm **Tashang**, a 4th-year Information Technology student focused on **cybersecurity and secure application development**.
 
 I enjoy building practical systems that solve real-world problems while learning how those systems can be **protected, tested, and improved from a security perspective**.
 
@@ -272,7 +272,7 @@ If you're interested in cybersecurity, secure development, technology, or buildi
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Natasha%20Remoto-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Hi%20Tashang-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
