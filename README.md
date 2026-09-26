@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     Hi, I'm Tashang — GITHUB PROFILE
+     Hi, I'm Natasha Nicole Remoto — GITHUB PROFILE
      Cybersecurity Analyst | IT Student | Secure Application Developer
      ═══════════════════════════════════════════════════════════════ -->
 
