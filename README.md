@@ -29,7 +29,7 @@
 ┌──────────────────────────────────────────────────────────────┐
 │                    SECURITY TERMINAL                         │
 ├──────────────────────────────────────────────────────────────┤
-│  USER        : Tashang                                       │
+│  USER        : Natasha Nicole Remoto                         │
 │  ROLE        : Cybersecurity Analyst                         │
 │  SPECIALTY   : Secure Application Development               │
 │  ENVIRONMENT : Python / Flask / Linux / Web                  │
@@ -44,7 +44,7 @@
 
 ## `01 // ABOUT ME`
 
-Hi, I'm **Tashang**, a 4th-year Information Technology student focused on **cybersecurity and secure application development**.
+Hi, I'm **Natasha Nicole Remoto**, a 4th-year Information Technology student focused on **cybersecurity and secure application development**.
 
 I enjoy building practical systems that solve real-world problems while learning how those systems can be **protected, tested, and improved from a security perspective**.
 
