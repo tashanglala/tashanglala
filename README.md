@@ -40,29 +40,31 @@ const natasha = {
   goal: "Cybersecurity Analyst",
   motto: "Design with purpose. Build with care. Keep learning."
 };
-🚀 Featured work
+🚀 Project playground
+I enjoy building in different spaces—from community-focused platforms to polished web experiences and hands-on technical prototypes. Each project helps me practice turning an idea into something useful.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 PNP Face Match</h3>
-      <p><b>Face verification web application</b></p>
-      <p>A project that explores face verification, image processing, web authentication, and database integration.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Flask-111827?style=flat-square&amp;logo=flask&amp;logoColor=white" alt="Flask" />
-        <img src="https://img.shields.io/badge/OpenCV-27338E?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
-      </p>
-      <a href="https://github.com/tashanglala/pnp-face-match"><b>View project →</b></a>
+      <h3>🧭 Community systems</h3>
+      <p>Digital platforms and concepts that support reporting, information access, and community engagement.</p>
+      <p><b>Focus:</b> workflows, usability, data handling, and privacy.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ PMPS ARGUS</h3>
-      <p><b>Crime reporting platform</b></p>
-      <p>A digital reporting and case-management concept for the Polangui Municipal Police Station, designed with privacy, usability, and structured workflows in mind.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Web%20Platform-0284C7?style=flat-square" alt="Web platform" />
-        <img src="https://img.shields.io/badge/Security%20Focused-7C3AED?style=flat-square" alt="Security focused" />
-      </p>
-      <b>In development</b>
+      <h3>🎨 Web experiences</h3>
+      <p>Responsive sites, organization portals, and client-facing interfaces designed to be clear and easy to use.</p>
+      <p><b>Focus:</b> frontend design, React, Firebase, and modern web tools.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧪 Learning labs</h3>
+      <p>Small builds and controlled labs where I explore networking, web testing, Linux, and secure development.</p>
+      <p><b>Focus:</b> curiosity, testing, and learning by doing.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📂 More to explore</h3>
+      <p>My repositories are a growing record of the systems, websites, prototypes, and experiments I’m working on.</p>
+      <a href="https://github.com/tashanglala?tab=repositories"><b>Browse my projects →</b></a>
     </td>
   </tr>
 </table>
