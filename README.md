@@ -2,98 +2,127 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1F3A,100:0066FF&height=210&section=header&text=Hi,%20I'm%20Tashang!&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=FRONTEND%20%26%20WEB%20DEVELOPER&descAlignY=58&descSize=13" width="100%" alt="Hi, I'm Tashang! Frontend and web developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:071426,50:0B357D,100:00A8E8&amp;height=245&amp;section=header&amp;text=Tashang's%20Dev%20Space&amp;fontSize=46&amp;fontColor=FFFFFF&amp;fontAlignY=37&amp;desc=FRONTEND%20%E2%80%A2%20WEB%20DEVELOPMENT%20%E2%80%A2%20CYBERSECURITY%20JOURNEY&amp;descAlignY=58&amp;descSize=13&amp;animation=fadeIn" width="100%" alt="Tashang's development space" />
 
-Natasha Nicole Remoto
-Frontend & Web Developer · BSIT Student
-Building for the web today. Working toward a future in cybersecurity.
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=18&amp;duration=2600&amp;pause=800&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Frontend+and+Web+Developer;Building+responsive%2C+people-first+experiences.;Learning+to+build+with+security+in+mind.;Future+Cybersecurity+Analyst+%E2%9C%A8" alt="Animated typing text: Frontend and Web Developer" /></a>
 
-<a href="https://github.com/tashanglala"><img src="https://img.shields.io/badge/GitHub-tashanglala-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: tashanglala" /></a>
-<a href="https://www.linkedin.com/in/natasharemoto/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge" alt="Connect with Natasha on LinkedIn" /></a>
-</div>
+<a href="https://github.com/tashanglala"><img src="https://img.shields.io/badge/GitHub-tashanglala-101827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub: tashanglala" /></a>
+<a href="https://www.linkedin.com/in/natasharemoto/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Natasha on LinkedIn" /></a>
+<img src="https://komarev.com/ghpvc/?username=tashanglala&amp;style=for-the-badge&amp;color=0EA5E9&amp;label=PROFILE+VIEWS" alt="Profile views" />
 
-01 / About me
-I'm a fourth-year BS Information Technology student at Bicol University – Polangui Campus, with a strong interest and current focus in frontend and web development.
 
-My forte is building web interfaces—turning ideas into clear layouts, responsive pages, and practical experiences that people can use. I enjoy bringing the visual and functional parts of a website together.
 
-My long-term goal is to become a cybersecurity analyst. Alongside development, I’m learning how applications and networks work, where vulnerabilities arise, and how to protect the systems I build.
-
-Alongside my technical work, I serve as External Vice President of the TechSystems Association, helping coordinate partnerships and connect people through technology.
-- Current strengths: frontend development, website building, and interface implementation.
-- Development focus: HTML, CSS, JavaScript, React, and responsive layouts.
-- Currently learning: web security, network fundamentals, Linux, and secure coding.
-- Career goal: grow into a cybersecurity analyst with a foundation in web development.
-Design with purpose. Build with care. Keep learning.
-
-02 / Featured projects
-PNP Face Match
-Face verification web application
-
-A web application exploring face verification, image processing, authentication, and database integration.
-
-Built with: Python · Flask · OpenCV · DeepFace · SQLAlchemy
-
-Explore the repository →
-PMPS ARGUS
-Crime reporting platform
-
-A project designed to support structured crime reporting and case management for the Polangui Municipal Police Station.
-
-Areas of focus: reporting workflows · authentication · database protection · geolocation · privacy and usability
-
-I'm exploring how digital reporting can make community services more accessible while treating sensitive information responsibly.
-03 / Technologies I work with
-Frontend focus
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" alt="Frontend: HTML, CSS, JavaScript, React, Tailwind CSS" />
+<img src="https://img.shields.io/badge/CURRENT%20FORTE-FRONTEND%20%26%20WEB%20DEVELOPMENT-0284C7?style=flat-square&amp;labelColor=0F172A" alt="Current forte: Frontend and web development" />
+<img src="https://img.shields.io/badge/FUTURE%20GOAL-CYBERSECURITY%20ANALYST-7C3AED?style=flat-square&amp;labelColor=0F172A" alt="Future goal: Cybersecurity analyst" />
 
 </div>
 
-Other technologies I use and explore
+✨ Hey, I'm Natasha!
+I'm a fourth-year BS Information Technology student at Bicol University – Polangui Campus. My strength is bringing ideas to life through clean, responsive, and user-friendly websites.
+
+Right now, I’m focused on frontend and web development. I’m also building my foundation in cybersecurity because my goal is to become a cybersecurity analyst who understands how applications are designed, built, and protected.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✨ What I build</h3>
+      <p>Responsive interfaces, web applications, and digital tools that make everyday tasks clearer and easier.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ What I’m growing into</h3>
+      <p>A cybersecurity analyst with practical web-development knowledge and a security-first mindset.</p>
+    </td>
+  </tr>
+</table>
+
+const natasha = {
+  currently: "Designing and building for the web",
+  learning: ["Web Security", "Network Fundamentals", "Linux", "Secure Coding"],
+  goal: "Cybersecurity Analyst",
+  motto: "Design with purpose. Build with care. Keep learning."
+};
+🚀 Featured work
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 PNP Face Match</h3>
+      <p><b>Face verification web application</b></p>
+      <p>A project that explores face verification, image processing, web authentication, and database integration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Flask-111827?style=flat-square&amp;logo=flask&amp;logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/OpenCV-27338E?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
+      </p>
+      <a href="https://github.com/tashanglala/pnp-face-match"><b>View project →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ PMPS ARGUS</h3>
+      <p><b>Crime reporting platform</b></p>
+      <p>A digital reporting and case-management concept for the Polangui Municipal Police Station, designed with privacy, usability, and structured workflows in mind.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Web%20Platform-0284C7?style=flat-square" alt="Web platform" />
+        <img src="https://img.shields.io/badge/Security%20Focused-7C3AED?style=flat-square" alt="Security focused" />
+      </p>
+      <b>In development</b>
+    </td>
+  </tr>
+</table>
+
+🧰 My toolbox
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,php&perline=3" alt="Other languages: Python, Java, PHP" />
+<p><b>Frontend</b></p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&amp;perline=5" alt="HTML, CSS, JavaScript, React, Tailwind CSS" />
 
+<p><b>Web development and data</b></p>
+<img src="https://skillicons.dev/icons?i=nodejs,flask,firebase,mysql,python&amp;perline=5" alt="Node.js, Flask, Firebase, MySQL, Python" />
 
-
-
-<img src="https://skillicons.dev/icons?i=flask,nodejs,firebase,mysql&perline=4" alt="Frameworks and platforms: Flask, Node.js, Firebase, MySQL" />
-
-
-
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows&perline=5" alt="Tools and environments: Git, GitHub, VS Code, Linux, Windows" />
+<p><b>Workspace</b></p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows&amp;perline=5" alt="Git, GitHub, VS Code, Linux, Windows" />
 
 </div>
 
-04 / Growing toward cybersecurity
-Web development is my current strength. These are the security topics I’m studying as I work toward my career goal.
-Area	What I'm practicing
-Web application security	Understanding XSS, CSRF, input validation, and authentication
-Network security	Exploring hosts, ports, and services with Nmap in lab environments
-Web testing	Inspecting requests and responses with Burp Suite and DVWA
-Systems fundamentals	Working with Linux commands, permissions, services, and firewalls
-Secure development	Learning access control, safer database queries, and data handling
-
-
-Security testing is conducted in my own labs or environments where I have permission.
-05 / How I approach projects
-1. Understand the problem and the people who will use the system.
-2. Design the interface with clear navigation and responsive layouts.
-3. Build the experience with attention to usability and consistent styling.
-4. Test the workflow, including errors and edge cases.
-5. Apply what I’m learning about security and privacy during development.
-6. Document what I learn and improve the next version.
-06 / Let's connect
-I'm happy to connect with fellow students, frontend and web developers, and people learning cybersecurity. I enjoy conversations about student projects, community-focused systems, and opportunities to learn together.
-
-GitHub · LinkedIn
+🎯 My next chapter: cybersecurity
 <div align="center">
 
+🌐	🔎	🖥️	🔐
+Web Security	Security Testing	Network Fundamentals	Secure Coding
+XSS · CSRF · authentication	DVWA · Burp Suite	Nmap · services · firewalls	input validation · access control
 
-Stay curious. Keep building. Keep learning.
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,50:0B1F3A,100:050816&height=100&section=footer" width="100%" alt="Blue wave footer" />
+
+</div>
+
+I practice security testing only in my own lab environments or systems where I have permission.
+📊 GitHub pulse
+<div align="center">
+
+<img height="172" src="https://github-readme-stats.vercel.app/api?username=tashanglala&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;icon_color=38BDF8&amp;text_color=E5E7EB&amp;ring_color=0EA5E9" alt="Natasha's GitHub statistics" />
+<img height="172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashanglala&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=E5E7EB" alt="Most-used languages" />
+
+
+<img src="https://streak-stats.demolab.com?user=tashanglala&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=38BDF8&amp;fire=F59E0B&amp;currStreakLabel=38BDF8" alt="GitHub contribution streak" />
+
+</div>
+
+🐍 Contribution journey
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/tashanglala/tashanglala/output/github-contribution-grid-snake-dark.svg" alt="Animated snake moving through Natasha's GitHub contribution graph" />
+
+
+<sub>The animation refreshes automatically through GitHub Actions.</sub>
+</div>
+
+<div align="center">
+
+<b>Let’s build something meaningful.</b>
+
+
+
+<a href="https://github.com/tashanglala"><img src="https://img.shields.io/badge/Explore%20my%20work-0EA5E9?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Natasha's GitHub" /></a>
+<a href="https://www.linkedin.com/in/natasharemoto/"><img src="https://img.shields.io/badge/Let’s%20connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00A8E8,50:0B357D,100:071426&amp;height=110&amp;section=footer" width="100%" alt="Blue wave footer" />
 
 </div>
