@@ -1,292 +1,99 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     Hi, I'm Natasha Nicole Remoto — GITHUB PROFILE
-     Cybersecurity Analyst | IT Student | Secure Application Developer
-     ═══════════════════════════════════════════════════════════════ -->
+<!-- GitHub profile README for tashanglala -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1F3A,100:0066FF&height=220&section=header&text=Hi!%20I'm%20Tashang&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20ANALYST%20%7C%20SECURE%20APPLICATION%20DEVELOPER&descAlignY=58&descSize=14&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1F3A,100:0066FF&height=210&section=header&text=Hi,%20I'm%20Tashang!&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=FRONTEND%20%26%20WEB%20DEVELOPER&descAlignY=58&descSize=13" width="100%" alt="Hi, I'm Tashang! Frontend and web developer" />
 
-<br>
+Natasha Nicole Remoto
+Frontend & Web Developer · BSIT Student
+Building for the web today. Working toward a future in cybersecurity.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=4DA6FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Analyst+in+the+Making;Secure+Application+Developer;Python+%7C+Flask+%7C+Web+Security;Building+%7C+Securing+%7C+Learning;Turning+Real-World+Problems+into+Technology" alt="Typing animation"/>
+<a href="https://github.com/tashanglala"><img src="https://img.shields.io/badge/GitHub-tashanglala-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: tashanglala" /></a>
+<a href="https://www.linkedin.com/in/natasharemoto/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge" alt="Connect with Natasha on LinkedIn" /></a>
+</div>
 
-<br><br>
+01 / About me
+I'm a fourth-year BS Information Technology student at Bicol University – Polangui Campus, with a strong interest and current focus in frontend and web development.
 
-[![GitHub](https://img.shields.io/badge/GitHub-tashanglala-0D1117?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/tashanglala)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
-[![Profile Views](https://komarev.com/ghpvc/?username=tashanglala\&style=for-the-badge\&color=0066FF\&label=PROFILE+VIEWS)](https://github.com/tashanglala)
+My forte is building web interfaces—turning ideas into clear layouts, responsive pages, and practical experiences that people can use. I enjoy bringing the visual and functional parts of a website together.
+
+My long-term goal is to become a cybersecurity analyst. Alongside development, I’m learning how applications and networks work, where vulnerabilities arise, and how to protect the systems I build.
+
+Alongside my technical work, I serve as External Vice President of the TechSystems Association, helping coordinate partnerships and connect people through technology.
+- Current strengths: frontend development, website building, and interface implementation.
+- Development focus: HTML, CSS, JavaScript, React, and responsive layouts.
+- Currently learning: web security, network fundamentals, Linux, and secure coding.
+- Career goal: grow into a cybersecurity analyst with a foundation in web development.
+Design with purpose. Build with care. Keep learning.
+
+02 / Featured projects
+PNP Face Match
+Face verification web application
+
+A web application exploring face verification, image processing, authentication, and database integration.
+
+Built with: Python · Flask · OpenCV · DeepFace · SQLAlchemy
+
+Explore the repository →
+PMPS ARGUS
+Crime reporting platform
+
+A project designed to support structured crime reporting and case management for the Polangui Municipal Police Station.
+
+Areas of focus: reporting workflows · authentication · database protection · geolocation · privacy and usability
+
+I'm exploring how digital reporting can make community services more accessible while treating sensitive information responsibly.
+03 / Technologies I work with
+Frontend focus
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=5" alt="Frontend: HTML, CSS, JavaScript, React, Tailwind CSS" />
 
 </div>
 
----
-
+Other technologies I use and explore
 <div align="center">
 
-### `◉ SYSTEM STATUS: ONLINE`
+<img src="https://skillicons.dev/icons?i=python,java,php&perline=3" alt="Other languages: Python, Java, PHP" />
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                    SECURITY TERMINAL                         │
-├──────────────────────────────────────────────────────────────┤
-│  USER        : Natasha Nicole Remoto                         │
-│  ROLE        : Cybersecurity Analyst                         │
-│  SPECIALTY   : Secure Application Development               │
-│  ENVIRONMENT : Python / Flask / Linux / Web                  │
-│  STATUS      : ● ONLINE                                      │
-│  MISSION     : BUILD • SECURE • LEARN                        │
-└──────────────────────────────────────────────────────────────┘
-```
+
+
+
+<img src="https://skillicons.dev/icons?i=flask,nodejs,firebase,mysql&perline=4" alt="Frameworks and platforms: Flask, Node.js, Firebase, MySQL" />
+
+
+
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows&perline=5" alt="Tools and environments: Git, GitHub, VS Code, Linux, Windows" />
 
 </div>
 
----
+04 / Growing toward cybersecurity
+Web development is my current strength. These are the security topics I’m studying as I work toward my career goal.
+Area	What I'm practicing
+Web application security	Understanding XSS, CSRF, input validation, and authentication
+Network security	Exploring hosts, ports, and services with Nmap in lab environments
+Web testing	Inspecting requests and responses with Burp Suite and DVWA
+Systems fundamentals	Working with Linux commands, permissions, services, and firewalls
+Secure development	Learning access control, safer database queries, and data handling
 
-## `01 // ABOUT ME`
 
-Hi, I'm **Natasha Nicole Remoto**, a 4th-year Information Technology student focused on **cybersecurity and secure application development**.
+Security testing is conducted in my own labs or environments where I have permission.
+05 / How I approach projects
+1. Understand the problem and the people who will use the system.
+2. Design the interface with clear navigation and responsive layouts.
+3. Build the experience with attention to usability and consistent styling.
+4. Test the workflow, including errors and edge cases.
+5. Apply what I’m learning about security and privacy during development.
+6. Document what I learn and improve the next version.
+06 / Let's connect
+I'm happy to connect with fellow students, frontend and web developers, and people learning cybersecurity. I enjoy conversations about student projects, community-focused systems, and opportunities to learn together.
 
-I enjoy building practical systems that solve real-world problems while learning how those systems can be **protected, tested, and improved from a security perspective**.
-
-My approach is simple:
-
-> **Build it. Understand it. Secure it. Improve it.**
-
-I'm currently developing my cybersecurity skills through hands-on projects, technical learning, and practical experimentation.
-
----
-
-## `02 // CURRENT MISSION`
-
-```text
-[████████████████████░░] 90%
-
-CYBERSECURITY
-├── Web & Application Security
-├── Network Security
-├── Authentication & Access Control
-├── Security Testing
-└── Security Fundamentals
-
-DEVELOPMENT
-├── Python
-├── Flask
-├── JavaScript
-├── HTML / CSS
-├── Firebase
-└── SQL
-
-CURRENT OBJECTIVE
-└── Build a strong cybersecurity portfolio
-    through practical projects and hands-on learning.
-```
-
----
-
-## `03 // FEATURED PROJECTS`
-
-### 🔐 PNP Face Match
-
-**AI-powered face verification web application**
-
-A web-based face verification system built around practical identity verification and secure application concepts.
-
-**Core technologies**
-
-`Python` `Flask` `OpenCV` `DeepFace` `SQLAlchemy`
-
-**Focus**
-
-* Face verification
-* Image processing
-* Web authentication
-* Database integration
-* Application deployment
-
+GitHub · LinkedIn
 <div align="center">
 
-<a href="https://github.com/tashanglala/pnp-face-match">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0066FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
-</div>
-
----
-
-### 🛡️ PMPS ARGUS
-
-**Secure Crime Reporting Platform**
-
-A security-focused platform designed to support structured crime reporting and digital case management for the **Polangui Municipal Police Station**.
-
-**Focus**
-
-`Secure Reporting` `Authentication` `Database Security` `Geolocation` `AI`
-
-The project explores how modern web technologies can be used to improve reporting workflows while considering security, privacy, and usability.
-
----
-
-## `04 // TECHNOLOGY STACK`
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,java,php" />
-
-### Frameworks & Development
-
-<img src="https://skillicons.dev/icons?i=flask,nodejs,react,firebase,mysql" />
-
-### Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows" />
-
-</div>
-
----
-
-## `05 // CYBERSECURITY FOCUS`
-
-<div align="center">
-
-| AREA | FOCUS                    |
-| :--: | :----------------------- |
-|  🔐  | **Application Security** |
-|  🌐  | **Web Security**         |
-|  🖥️ | **Network Security**     |
-|  🛡️ | **Secure Development**   |
-|  🔎  | **Security Testing**     |
-|  ⚙️  | **Security Automation**  |
-
-</div>
-
----
-
-## `06 // HOW I BUILD`
-
-```text
-              ┌──────────────────┐
-              │   REAL PROBLEM   │
-              └────────┬─────────┘
-                       │
-                       ▼
-              ┌──────────────────┐
-              │    DESIGN        │
-              └────────┬─────────┘
-                       │
-                       ▼
-              ┌──────────────────┐
-              │     BUILD        │
-              └────────┬─────────┘
-                       │
-                       ▼
-              ┌──────────────────┐
-              │     TEST         │
-              └────────┬─────────┘
-                       │
-                       ▼
-              ┌──────────────────┐
-              │     SECURE       │
-              └────────┬─────────┘
-                       │
-                       ▼
-              ┌──────────────────┐
-              │    IMPROVE       │
-              └──────────────────┘
-```
-
----
-
-## `07 // GITHUB ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tashanglala&show_icons=true&hide_border=true&bg_color=050816&title_color=4DA6FF&icon_color=4DA6FF&text_color=FFFFFF&ring_color=0066FF" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashanglala&layout=compact&hide_border=true&bg_color=050816&title_color=4DA6FF&text_color=FFFFFF" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=tashanglala&theme=transparent&hide_border=true&ring=0066FF&fire=4DA6FF&currStreakLabel=4DA6FF" />
-
-</div>
-
----
-
-## `08 // CONTRIBUTION MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/tashanglala/tashanglala/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-
-</div>
-
----
-
-## `09 // CURRENTLY LEARNING`
-
-```text
-> initializing learning_modules...
-
-[+] Cybersecurity Fundamentals
-[+] Web Application Security
-[+] Network Security
-[+] Linux & Command Line
-[+] Secure Coding
-[+] Vulnerability Analysis
-[+] Security Automation
-
-> learning_modules loaded successfully.
-```
-
----
-
-## `10 // BEYOND THE CODE`
-
-I believe cybersecurity isn't only about tools.
-
-It's about understanding:
-
-**people → systems → vulnerabilities → risks → solutions**
-
-That's why I enjoy combining **software development with security thinking**.
-
-My goal is to become someone who can not only build applications, but also understand how to **design, test, and strengthen them against security threats**.
-
----
-
-## `11 // LET'S CONNECT`
-
-<div align="center">
-
-If you're interested in cybersecurity, secure development, technology, or building something meaningful—
-
-**let's connect.**
-
-<br>
-
-<a href="https://github.com/tashanglala">
-<img src="https://img.shields.io/badge/GitHub-tashanglala-0D1117?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Hi%20Tashang-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### `SYSTEM MESSAGE`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=Stay+curious.;Keep+building.;Keep+learning.;Security+is+a+process%2C+not+a+destination." />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,50:0B1F3A,100:050816&height=120&section=footer&animation=fadeIn" width="100%"/>
+Stay curious. Keep building. Keep learning.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,50:0B1F3A,100:050816&height=100&section=footer" width="100%" alt="Blue wave footer" />
 
 </div>
