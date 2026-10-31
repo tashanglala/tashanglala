@@ -4,8 +4,8 @@
 <p>
 <img src="https://img.shields.io/badge/CURRENT%20FORTE-FRONTEND%20%26%20WEB%20DEVELOPMENT-0284C7?style=flat-square&labelColor=0F172A" alt="Current forte: Frontend and web development" />
 <img src="https://img.shields.io/badge/FUTURE%20GOAL-CYBERSECURITY%20ANALYST-7C3AED?style=flat-square&labelColor=0F172A" alt="Future goal: Cybersecurity analyst" />
-</p></div>✨ Hey, I'm Natasha!
-I'm a fourth-year BS Information Technology student at Bicol University – Polangui Campus. I enjoy bringing ideas to life through clean, responsive, and user-friendly websites.
+</p></div>✨ Hey, I'm Natasha Nicole Remoto!
+I'm a fourth-year BS Information Technology student at Bicol University. I enjoy bringing ideas to life through clean, responsive, and user-friendly websites.
 
 My current focus is frontend and web development. I'm also building a foundation in cybersecurity because my long-term goal is to become an analyst who understands how applications are designed, built, and protected.
 <table>
