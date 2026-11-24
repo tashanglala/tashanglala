@@ -1,9 +1,9 @@
 <!-- GitHub profile README for tashanglala. Paste this file's RAW contents into README.md. --><div align="center">
   <img src="https://capsule-render.vercel.app/api?type=checkered&amp;color=0:FFF0F5,100:F2B6CC&amp;height=275&amp;section=header&amp;text=Tashang%E2%80%99s%20Dev%20Space&amp;fontColor=602541&amp;fontFamily=Georgia&amp;fontSize=63&amp;fontAlignY=45&amp;desc=FRONTEND%20%E2%80%A2%20WEB%20DEVELOPMENT%20%E2%80%A2%20CYBERSECURITY%20JOURNEY%20%20%E2%99%A1&amp;descAlignY=69&amp;descSize=18" width="100%" alt="Tashang’s Dev Space · Frontend · Web Development · Cybersecurity Journey" />
+  <p><a href="https://www.linkedin.com/in/natasharemoto/"><strong>LinkedIn</strong></a> · <a href="https://natasha-portfolio-livid.vercel.app/"><strong>Portfolio</strong></a></p>
   <p><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=18&amp;duration=2600&amp;pause=800&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Frontend+and+Web+Developer;Building+responsive%2C+people-first+experiences;Learning+to+build+with+security+in+mind;Future+Cybersecurity+Analyst" alt="Typing introduction" /></p>
   <p>
     <a href="https://github.com/tashanglala"><img src="https://img.shields.io/badge/GitHub-tashanglala-101827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-    <a href="https://www.linkedin.com/in/natasharemoto/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
     <img src="https://komarev.com/ghpvc/?username=tashanglala&amp;style=for-the-badge&amp;color=0EA5E9&amp;label=PROFILE+VIEWS" alt="Profile views" />
   </p>
   <p>
